@@ -25,6 +25,7 @@
 //    [[NSUserNotificationCenter defaultUserNotificationCenter] deliverNotification:userNotification];
     [[NSNotificationCenter defaultCenter] remoteObjects];
     [[NSUserNotificationCenter defaultUserNotificationCenter] remove];
+    NSLog(@"Testing git");
     // Insert code here to initialize your application
 }
 
